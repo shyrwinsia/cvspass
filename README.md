@@ -2,7 +2,7 @@
 
 If you forgot your password for CVS, there is good news because it is stored under your home directory. The file is called .cvspass and it needs to exist in order for this code to decode the password.
 
-## Prerquisite
+## Pre-requisite
 
 You need to have a Java Development Toolkit installed.
 
